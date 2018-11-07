@@ -26,6 +26,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide.
 - [mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An OS email campaign management tool for nonprofits.
 - [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - 📔 📚 A curated list of awesome nextjs resources.
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)-learning resources.
 
 
 # Contributing
