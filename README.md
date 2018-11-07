@@ -1,6 +1,6 @@
 # Awesome-Repos [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
 
-A curated list of awesome repositories, we come across and are tempted to fork. Instead of having forked repositories littered all around our GitHub accounts, how does the idea of having a single repository with all your favorite repositories and also other awesome repositories/projects you had no idea existed, sound?
+A curated list of awesome repositories, we come across and are tempted to fork. Instead of having forked repositories littered all around our GitHub accounts, how does the idea of having a single repository with all your favorite repositories and also other awesome repositories/projects or even learning resources in form of repos you had no idea existed, sound?
 
 
 ## Content
@@ -12,9 +12,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 
 ## Johnson Ogwuru
 
-
-- []()
-
+- [first-contributions](https://github.com/firstcontributions/first-contributions) -  Help beginners to contribute to OSS.
 
 
 
