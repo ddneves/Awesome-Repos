@@ -22,6 +22,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 - [TechLadderIO](https://github.com/remojansen/TechLadderIO) - provides programmers with a way to improve their skills.
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - cheatsheets for popular programming languages.
 - [resources-i-like](https://github.com/unicodeveloper/resources-i-like) - Collection of learning resources.
+- [made-in-nigeria](https://github.com/acekyd/made-in-nigeria) - Here is a curation of awesome tools built by Nigerians.
 
 
 
