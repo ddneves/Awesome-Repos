@@ -4,7 +4,8 @@ Your contributions are always welcome!
 
 ## Guidelines
 
-* Add one repo per Pull Request.
+* Your awesome list could be a learning resource repo or an software or open source software repo
+* Add one repository per Pull Request.
 * Add your name to the Content section, with a pointer to the section of your ##awesome Repo list 
     * Example: `* - [Johnson Ogwuru](#Johnson Ogwuru)`
 * Create a section for yourself, all your awesome repositories, would reside here.
