@@ -17,6 +17,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 - [ng-banks](https://github.com/BolajiOlajide/ng-banks) - npm package to get list of banks in Nigeria.
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects.
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - ⚡️ Delightful Node.js packages and resources.
+- [carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications.
 
 
 
