@@ -14,6 +14,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 
 - [first-contributions](https://github.com/firstcontributions/first-contributions) -  Help beginners to contribute to OSS.
 - [react-static](https://github.com/nozzle/react-static) - ⚛️ 🚀 A progressive static site generator for React.
+- [ng-banks](https://github.com/BolajiOlajide/ng-banks) - npm package to get list of banks in Nigeria.
 
 
 
