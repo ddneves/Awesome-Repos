@@ -1,16 +1,16 @@
-# Awesome-Repos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ogwurujohnson/Awesome-Repos) 
+# Awesome-Repos [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
 
 A curated list of awesome repositories, we come across and are tempted to fork. Instead of having forked repositories littered all around our GitHub accounts, how does the idea of having a single repository with all your favorite repositories and also other awesome repositories/projects you had no idea existed, sound?
 
 
 ## Content
 
-- [Johnson Ogwuru](#ogwurujohnson)
+- [Johnson Ogwuru](#Johnson Ogwuru)
 
 
 
 
-## ogwurujohnson
+## Johnson Ogwuru
 
 
 - []()
