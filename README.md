@@ -5,12 +5,12 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 
 ## Content
 
-- [Johnson Ogwuru](#Johnson Ogwuru)
+- [Johnson Ogwuru](#JohnsonOgwuru)
 
 
 
 
-## Johnson Ogwuru
+## JohnsonOgwuru
 
 - [first-contributions](https://github.com/firstcontributions/first-contributions) -  Help beginners to contribute to OSS.
 - [react-static](https://github.com/nozzle/react-static) - ⚛️ 🚀 A progressive static site generator for React.
@@ -31,9 +31,9 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines]() first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ogwurujohnson/Awesome-Repos/blob/master/contributing.md) first.
 
-I will keep some pull requests open if I'm not sure whether those repositories are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those repositories are awesome, you could [vote for them](https://github.com/ogwurujohnson/Awesome-Repos/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 - - -
 
