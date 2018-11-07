@@ -25,7 +25,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 - [made-in-nigeria](https://github.com/acekyd/made-in-nigeria) - Here is a curation of awesome tools built by Nigerians.
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide.
 - [mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An OS email campaign management tool for nonprofits.
-
+- [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - 📔 📚 A curated list of awesome nextjs resources.
 
 
 # Contributing
