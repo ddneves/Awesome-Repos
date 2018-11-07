@@ -1,4 +1,5 @@
-# Awesome-Repos [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
+# Awesome-Repos [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesome-Repos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesome-Repos?ref=badge_shield)
+
 
 A curated list of awesome repositories, we come across and are tempted to fork. Instead of having forked repositories littered all around our GitHub accounts, how does the idea of having a single repository with all your favorite repositories and also other awesome repositories/projects or even learning resources in form of repos you had no idea existed, sound?
 
@@ -38,3 +39,6 @@ I will keep some pull requests open if I'm not sure whether those repositories a
 - - -
 
 If you have any question about this opinionated list, do not hesitate to contact me [@devopsjay](https://twitter.com/devopsjay) on Twitter or open an issue on GitHub.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesome-Repos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesome-Repos?ref=badge_large)
