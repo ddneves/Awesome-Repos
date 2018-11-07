@@ -21,6 +21,7 @@ A curated list of awesome repositories, we come across and are tempted to fork. 
 - [naperg](https://github.com/alan345/naperg) - Fullstack Boilerplate GraphQL. with React & Prisma + authentication,etc.
 - [TechLadderIO](https://github.com/remojansen/TechLadderIO) - provides programmers with a way to improve their skills.
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - cheatsheets for popular programming languages.
+- [resources-i-like](https://github.com/unicodeveloper/resources-i-like) - Collection of learning resources.
 
 
 
